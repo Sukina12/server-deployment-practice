@@ -28,3 +28,7 @@
 [My Actions Test](https://github.com/Sukina12/server-deployment-practice/actions)
 
 [My Pull request](https://github.com/Sukina12/server-deployment-practice/pull/1)
+
+### UML diagram :
+
+![UML](UML-class1.PNG)
